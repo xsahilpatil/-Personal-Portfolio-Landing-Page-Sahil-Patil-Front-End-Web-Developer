@@ -24,10 +24,6 @@ window.addEventListener("scroll", () => {
   });
 });
 
-window.addEventListener("load", () => {
-  document.getElementById("loader").style.display = "none";
-});
-
 document.getElementById("contactForm").addEventListener("submit", function (e) {
   e.preventDefault();
 

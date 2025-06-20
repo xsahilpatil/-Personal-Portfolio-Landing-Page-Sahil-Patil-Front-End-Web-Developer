@@ -12,6 +12,7 @@ body {
   transition: background-color 0.5s, color 0.5s;
 }
 
+
 header {
   background: #222;
   color: white;
@@ -20,7 +21,6 @@ header {
   width: 100%; /* Ensure full width */
   margin: 0;   /* Remove any default margins */
 }
-
 
 h1,
 h2,
@@ -285,10 +285,9 @@ section {
 }
 
 .theme-switch-wrapper {
-  position: fixed;
-  top: 70px;
-  right: 20px;
-  z-index: 999;
+  margin: 1rem auto;
+  display: flex;
+  justify-content: center;
   user-select: none;
 }
 
@@ -364,7 +363,7 @@ input:checked + .slider .toggle-icon {
 /* Responsive adjustment */
 @media (max-width: 770px) {
   .theme-switch-wrapper {
-    top: 200px;
+    top: 100px;
     right: 16px;
   }
 
