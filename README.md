@@ -5,7 +5,7 @@
 Welcome to my personal portfolio landing page!  
 This site is designed to showcase my skills, projects, and services as a freelance front-end web developer. It is fully responsive, modern, and optimized for performance.
 
-👉 **Live Demo**: [https://xsahilpatil.github.io/](https://xsahilpatil.github.io/-Personal-Portfolio-Landing-Page-Sahil-Patil-Front-End-Web-Developer)  
+👉 **Live Demo**: [https://xsahilpatil.github.io/](https://xsahilpatil.github.io/Personal-Portfolio-Landing-Page-Sahil-Patil-Front-End-Web-Developer)  
 👉 **Fiverr Profile**: [Order on Fiverr](https://www.fiverr.com/xsahilpatil)
 
 ---
